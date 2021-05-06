@@ -1,0 +1,13 @@
+1. Database provided by 'codebasics' (GitHub profile)
+
+2. Used MySQL to perform initial analytics on the database (checking distinct quantities, checking duplicates, null values etc.)
+
+3. Used Microsoft Power BI to create a dashboard for sales insights (pdf provided)
+
+4. Learnings:
+   a. MySQL commands such as SELECT, JOIN, COUNT, WHERE etc.
+   b. Developing data analytics aptitude
+   c. Importing database to Microsoft Power BI
+   d. Manipulating database tables using Power BI tools
+   e. Generating interactive dashboards in Power BI
+  
